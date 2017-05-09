@@ -3,3 +3,4 @@ while true
 do
 echo "ha"
 done
+w
